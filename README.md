@@ -19,11 +19,11 @@ As a passionate student of Software Engineering, Mathematics, and Physics, I am 
 
 Currently, I specialize in:
 
-- Data Science📊: Utilizing statistical models, machine learning algorithms, and big data analytics to extract meaningful insights from large datasets.
+- Data Science 📊: Utilizing statistical models, machine learning algorithms, and big data analytics to extract meaningful insights from large datasets.
 
-- Software Development💻: Writing clean, efficient code and developing applications that solve real-world problems.
+- Software Development 💻: Writing clean, efficient code and developing applications that solve real-world problems.
 
-- Mathematics & Physics⚛️: Applying theoretical knowledge to model complex systems, from cryptography to predictive analytics in networks and simulations.
+- Mathematics & Physics ⚛️: Applying theoretical knowledge to model complex systems, from cryptography to predictive analytics in networks and simulations.
 
 I am constantly learning and evolving with new technologies, seeking opportunities to contribute to impactful projects. I am particularly interested in working on innovative solutions in fields like artificial intelligence, computational biology, and complex systems.  
   
