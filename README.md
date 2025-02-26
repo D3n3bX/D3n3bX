@@ -14,7 +14,7 @@
 
 
 
-### Student 👩‍🎓in Software Engineering, Mathematics and Physics Specialized in Data Science  
+### Student 👩‍🎓 in Software Engineering, Mathematics and Physics Specialized in Data Science  
 As a passionate student of Software Engineering, Mathematics, and Physics, I am dedicated to the intersection of technology and science, with a strong focus on Data Science. My academic background provides me with a unique blend of skills, allowing me to tackle complex problems through analytical thinking and advanced computational techniques.
 
 Currently, I specialize in:
