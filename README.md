@@ -69,12 +69,12 @@ I am a graduate in Software Engineering and Mathematics with a strong interest i
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D3n3bX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3n3bX&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
+  <!-- Gráfico de actividad interactivo tipo curva de datos -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3n3bX&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 
-<br/>
+  <br/><br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,30&height=100&section=footer" width="100%" alt="Footer" />
+  <!-- Racha de commits y Top Lenguajes en formato barra -->
+  <img src="https://streak-stats.demolab.com?user=D3n3bX&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3n3bX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </div>
